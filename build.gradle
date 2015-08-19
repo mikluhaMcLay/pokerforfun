@@ -34,6 +34,7 @@ dependencies {
     compile "org.slf4j:slf4j-api:1.7.12"    // the SLF4J API
 
     compile 'io.dropwizard:dropwizard-core:0.8.2'
+    compile 'io.dropwizard:dropwizard-auth:0.8.2'
     capsule 'co.paralleluniverse:capsule:1.0-rc1'
 
     compile 'com.google.dagger:dagger:2.0.1'
